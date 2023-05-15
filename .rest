@@ -1,0 +1,4 @@
+GET https://pokeapi.co/api/v2/pokemon?limit=151 HTTP/1.1
+
+###
+GET https://pokeapi.co/api/v2/pokemon/1 HTTP/1.1
