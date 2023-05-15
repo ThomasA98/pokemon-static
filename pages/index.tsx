@@ -24,8 +24,6 @@ const Home: NextPage<HomeProps> = ({ pokemons }) => {
           />
         )
       }</Grid.Container>
-
-      <Button color={'gradient'}>hola mundo</Button>
     </Layout>
   )
 }
